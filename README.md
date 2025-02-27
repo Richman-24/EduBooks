@@ -1,4 +1,4 @@
-# Список литературы.
+# Мой список литературы.
 
 ## Done.
 0. Swaroop Chitlur - "Byte of Python"
